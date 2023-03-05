@@ -1,0 +1,11 @@
+<?
+$MESS['MAIN_OPTIONS'] = 'Îñíîâíûå';
+$MESS['FORMS_OPTIONS'] = 'Âàëèäàöèÿ ââîäà';
+
+$MESS['DATE_FORMAT'] = 'Ôîðìàò äàòû';
+$MESS['DATE_FORMAT_DOT'] = 'ÄÄ.ÌÌ.ÃÃÃÃ';
+$MESS['DATE_FORMAT_HYPHEN'] = 'ÄÄ-ÌÌ-ÃÃÃÃ';
+$MESS['DATE_FORMAT_SPACE'] = 'ÄÄ ÌÌ ÃÃÃÃ';
+$MESS['DATE_FORMAT_SLASH'] = 'ÄÄ/ÌÌ/ÃÃÃÃ';
+$MESS['DATE_FORMAT_COLON'] = 'ÄÄ:ÌÌ:ÃÃÃÃ';
+?>
